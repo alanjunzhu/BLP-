@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```
 
 The cleaned data in `data/clean/` are committed, so you can skip notebooks 01, 02 and 02b and start at 03; those
-three are only needed to rebuild the data from the raw downloads (about 3 GB). PyBLP uses all CPU cores by default;
+three are only needed to rebuild the data from the raw downloads (about 3 GB). PyBLP uses up to 6 CPU cores by default;
 set `N_CORES` to change that.
 
 Run the notebooks in order from the `notebooks/` directory (each one loads `00_setup` and `00_model_functions` itself):
