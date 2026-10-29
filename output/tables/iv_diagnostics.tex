@@ -1,0 +1,17 @@
+\begin{tabular}{lrrrrrrr}
+\toprule
+ & logit alpha & (s.e.) & first-stage F & J & J df & NL alpha & NL rho \\
+instruments &  &  &  &  &  &  &  \\
+\midrule
+baseline & 2.301 & 0.092 & 947.639 & 216.395 & 7 & 1.543 & 0.399 \\
+blp only & 2.309 & 0.096 & 854.830 & 210.826 & 5 & 1.452 & 0.417 \\
+differentiation & 2.421 & 0.140 & 400.271 & 72.863 & 5 & 1.758 & 0.311 \\
+baseline + Hausman & 0.137 & 0.020 & 6855.824 & 1451.508 & 8 & 0.062 & 0.720 \\
+Hausman only & -0.044 & 0.020 & 5487.490 & 124.889 & 1 & -0.027 & 0.227 \\
+baseline + cost shifters & 0.284 & 0.020 & 2216.912 & 1516.456 & 9 & 0.130 & 0.717 \\
+cost shifters only & -0.146 & 0.020 & 1164.662 & 282.199 & 2 & -0.055 & 0.372 \\
+baseline, product + quarter FE & -0.345 & 0.045 & 476.185 & 414.243 & 7 & NaN & NaN \\
+cost shifters only, product + quarter FE & -0.041 & 0.015 & 1451.941 & 379.786 & 2 & NaN & NaN \\
+\bottomrule
+\end{tabular}
+\par\vspace{2pt}{\footnotesize Price sensitivity $\alpha$ (utility per \$100; positive means downward-sloping demand), route-clustered s.e., first-stage Wald F for price, Hansen J. Columns NL: nested logit with one air-travel nest. Route, quarter and carrier fixed effects unless stated.}
