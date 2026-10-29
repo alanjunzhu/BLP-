@@ -1,5 +1,6 @@
 file,MB
 data/raw/airports/master_coordinate.zip,0.3
+data/raw/census/acsdt5y2024-b19001.dat,69.0
 data/raw/census/cb_2024_us_cbsa_500k.zip,4.7
 data/raw/census/cbsa-est2025-alldata.csv,0.8
 data/raw/cpi/CPIAUCSL.csv,0.0
@@ -31,7 +32,12 @@ data/raw/db1b/Origin_and_Destination_Survey_DB1BTicket_2024_3.zip,102.1
 data/raw/db1b/Origin_and_Destination_Survey_DB1BTicket_2024_4.zip,103.6
 data/raw/db1b/Origin_and_Destination_Survey_DB1BTicket_2025_1.zip,90.0
 data/raw/db1b/Origin_and_Destination_Survey_DB1BTicket_2025_2.zip,103.3
-data/raw/t100/T100_domestic_segment_2022.zip,4.7
-data/raw/t100/T100_domestic_segment_2023.zip,4.8
-data/raw/t100/T100_domestic_segment_2024.zip,4.9
-data/raw/t100/T100_domestic_segment_2025.zip,5.2
+data/raw/form41/P52_2022.zip,0.0
+data/raw/form41/P52_2023.zip,0.0
+data/raw/form41/P52_2024.zip,0.0
+data/raw/form41/P52_2025.zip,0.0
+data/raw/fuel/MJFUELUSGULF.csv,0.0
+data/raw/t100/T100_domestic_segment_2022.zip,6.8
+data/raw/t100/T100_domestic_segment_2023.zip,7.0
+data/raw/t100/T100_domestic_segment_2024.zip,7.2
+data/raw/t100/T100_domestic_segment_2025.zip,7.5
