@@ -1,0 +1,6 @@
+step,description,records,passengers,products,markets
+10.0,Aggregated to carrier x market x service type,92647009,174681984.0,720173,314149
+10.5,Products with >= 20 sample passengers,90324002,172292101.0,384326,154018
+11.0,Nonstop products confirmed by T-100 (>= 12 departures),90039844,171951952.0,378847,153928
+12.0,Markets with >= 100 sample passengers,86825599,168613052.0,287469,80118
+13.0,Drop markets with inside share >= 0.5,86703706,167229230.0,287276,80066

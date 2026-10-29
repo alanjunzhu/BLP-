@@ -1,0 +1,127 @@
+Year,Quarter,step,description,records,passengers
+2022,1,1,Raw DB1B Market records,6078763,11714312.0
+2022,1,2,Both endpoints in 50 states + DC,5944530,11448670.0
+2022,1,3,Drop bulk fares,5943904,11447981.0
+2022,1,4,Drop fares flagged not credible (DollarCred = 0),5928955,11431952.0
+2022,1,5,Drop fares below $25,5620617,10288171.0
+2022,1,6,Single ticketing carrier,5539356,10201855.0
+2022,1,7,Nonstop or one-stop,5439638,10100280.0
+2022,1,8,Drop fare per mile above 99th pct (quarter x distance band),5385240,10039166.0
+2022,1,9,Both endpoints in a CBSA with population data,5298747,9868057.0
+2022,2,1,Raw DB1B Market records,7478826,14585236.0
+2022,2,2,Both endpoints in 50 states + DC,7333634,14270309.0
+2022,2,3,Drop bulk fares,7332740,14269289.0
+2022,2,4,Drop fares flagged not credible (DollarCred = 0),7302554,14236271.0
+2022,2,5,Drop fares below $25,6967875,12982899.0
+2022,2,6,Single ticketing carrier,6848413,12855433.0
+2022,2,7,Nonstop or one-stop,6730395,12734967.0
+2022,2,8,Drop fare per mile above 99th pct (quarter x distance band),6663090,12660252.0
+2022,2,9,Both endpoints in a CBSA with population data,6580018,12504278.0
+2022,3,1,Raw DB1B Market records,7045674,14423125.0
+2022,3,2,Both endpoints in 50 states + DC,6925816,14151709.0
+2022,3,3,Drop bulk fares,6925090,14150774.0
+2022,3,4,Drop fares flagged not credible (DollarCred = 0),6899634,14122757.0
+2022,3,5,Drop fares below $25,6552604,12799808.0
+2022,3,6,Single ticketing carrier,6440830,12681498.0
+2022,3,7,Nonstop or one-stop,6324170,12562239.0
+2022,3,8,Drop fare per mile above 99th pct (quarter x distance band),6260927,12491834.0
+2022,3,9,Both endpoints in a CBSA with population data,6189840,12360515.0
+2022,4,1,Raw DB1B Market records,7254531,14525804.0
+2022,4,2,Both endpoints in 50 states + DC,7122963,14236949.0
+2022,4,3,Drop bulk fares,7122408,14236275.0
+2022,4,4,Drop fares flagged not credible (DollarCred = 0),7083250,14192390.0
+2022,4,5,Drop fares below $25,6732188,12808544.0
+2022,4,6,Single ticketing carrier,6624203,12693515.0
+2022,4,7,Nonstop or one-stop,6517204,12584653.0
+2022,4,8,Drop fare per mile above 99th pct (quarter x distance band),6452030,12510995.0
+2022,4,9,Both endpoints in a CBSA with population data,6366923,12345012.0
+2023,1,1,Raw DB1B Market records,6714113,13472113.0
+2023,1,2,Both endpoints in 50 states + DC,6554834,13157187.0
+2023,1,3,Drop bulk fares,6554281,13156537.0
+2023,1,4,Drop fares flagged not credible (DollarCred = 0),6520895,13119606.0
+2023,1,5,Drop fares below $25,6185964,11789358.0
+2023,1,6,Single ticketing carrier,6087631,11683889.0
+2023,1,7,Nonstop or one-stop,5990696,11584994.0
+2023,1,8,Drop fare per mile above 99th pct (quarter x distance band),5930796,11517002.0
+2023,1,9,Both endpoints in a CBSA with population data,5836299,11311016.0
+2023,2,1,Raw DB1B Market records,7616858,15518197.0
+2023,2,2,Both endpoints in 50 states + DC,7461672,15184382.0
+2023,2,3,Drop bulk fares,7461006,15183563.0
+2023,2,4,Drop fares flagged not credible (DollarCred = 0),7429245,15148546.0
+2023,2,5,Drop fares below $25,7071718,13693770.0
+2023,2,6,Single ticketing carrier,6948973,13560994.0
+2023,2,7,Nonstop or one-stop,6837892,13447499.0
+2023,2,8,Drop fare per mile above 99th pct (quarter x distance band),6769523,13370021.0
+2023,2,9,Both endpoints in a CBSA with population data,6683347,13183200.0
+2023,3,1,Raw DB1B Market records,7349871,15262638.0
+2023,3,2,Both endpoints in 50 states + DC,7211513,14954282.0
+2023,3,3,Drop bulk fares,7210666,14953086.0
+2023,3,4,Drop fares flagged not credible (DollarCred = 0),7185213,14925294.0
+2023,3,5,Drop fares below $25,6787510,13374361.0
+2023,3,6,Single ticketing carrier,6670540,13250526.0
+2023,3,7,Nonstop or one-stop,6556926,13134260.0
+2023,3,8,Drop fare per mile above 99th pct (quarter x distance band),6491355,13060134.0
+2023,3,9,Both endpoints in a CBSA with population data,6419877,12910198.0
+2023,4,1,Raw DB1B Market records,7754181,15205498.0
+2023,4,2,Both endpoints in 50 states + DC,7604449,14896106.0
+2023,4,3,Drop bulk fares,7603619,14895101.0
+2023,4,4,Drop fares flagged not credible (DollarCred = 0),7563197,14850778.0
+2023,4,5,Drop fares below $25,7167664,13244139.0
+2023,4,6,Single ticketing carrier,7060689,13130510.0
+2023,4,7,Nonstop or one-stop,6957022,13025137.0
+2023,4,8,Drop fare per mile above 99th pct (quarter x distance band),6887451,12946902.0
+2023,4,9,Both endpoints in a CBSA with population data,6800174,12760591.0
+2024,1,1,Raw DB1B Market records,7409931,13879192.0
+2024,1,2,Both endpoints in 50 states + DC,7235394,13533348.0
+2024,1,3,Drop bulk fares,7234824,13532610.0
+2024,1,4,Drop fares flagged not credible (DollarCred = 0),7193429,13487368.0
+2024,1,5,Drop fares below $25,6834121,12118472.0
+2024,1,6,Single ticketing carrier,6733683,12011868.0
+2024,1,7,Nonstop or one-stop,6636108,11912347.0
+2024,1,8,Drop fare per mile above 99th pct (quarter x distance band),6569744,11839016.0
+2024,1,9,Both endpoints in a CBSA with population data,6466343,11617309.0
+2024,2,1,Raw DB1B Market records,8533978,16332032.0
+2024,2,2,Both endpoints in 50 states + DC,8373814,15966988.0
+2024,2,3,Drop bulk fares,8373135,15966119.0
+2024,2,4,Drop fares flagged not credible (DollarCred = 0),8333391,15922626.0
+2024,2,5,Drop fares below $25,7934550,14410543.0
+2024,2,6,Single ticketing carrier,7811199,14278834.0
+2024,2,7,Nonstop or one-stop,7693084,14158203.0
+2024,2,8,Drop fare per mile above 99th pct (quarter x distance band),7616156,14072345.0
+2024,2,9,Both endpoints in a CBSA with population data,7526774,13878751.0
+2024,3,1,Raw DB1B Market records,8297869,15903685.0
+2024,3,2,Both endpoints in 50 states + DC,8157637,15588209.0
+2024,3,3,Drop bulk fares,8156860,15587151.0
+2024,3,4,Drop fares flagged not credible (DollarCred = 0),8124789,15551313.0
+2024,3,5,Drop fares below $25,7712302,14012463.0
+2024,3,6,Single ticketing carrier,7591974,13885989.0
+2024,3,7,Nonstop or one-stop,7461572,13753027.0
+2024,3,8,Drop fare per mile above 99th pct (quarter x distance band),7386952,13669113.0
+2024,3,9,Both endpoints in a CBSA with population data,7309100,13502515.0
+2024,4,1,Raw DB1B Market records,8525077,15922048.0
+2024,4,2,Both endpoints in 50 states + DC,8363731,15595193.0
+2024,4,3,Drop bulk fares,8363111,15594459.0
+2024,4,4,Drop fares flagged not credible (DollarCred = 0),8315988,15542500.0
+2024,4,5,Drop fares below $25,7897732,13961530.0
+2024,4,6,Single ticketing carrier,7781698,13839094.0
+2024,4,7,Nonstop or one-stop,7655398,13710729.0
+2024,4,8,Drop fare per mile above 99th pct (quarter x distance band),7578845,13625181.0
+2024,4,9,Both endpoints in a CBSA with population data,7483825,13417871.0
+2025,1,1,Raw DB1B Market records,7297028,13757548.0
+2025,1,2,Both endpoints in 50 states + DC,7115039,13394264.0
+2025,1,3,Drop bulk fares,7114531,13393636.0
+2025,1,4,Drop fares flagged not credible (DollarCred = 0),7071949,13346472.0
+2025,1,5,Drop fares below $25,6691454,11955879.0
+2025,1,6,Single ticketing carrier,6592435,11850360.0
+2025,1,7,Nonstop or one-stop,6484175,11739990.0
+2025,1,8,Drop fare per mile above 99th pct (quarter x distance band),6419337,11666409.0
+2025,1,9,Both endpoints in a CBSA with population data,6314584,11432708.0
+2025,2,1,Raw DB1B Market records,8450420,16142726.0
+2025,2,2,Both endpoints in 50 states + DC,8282732,15780510.0
+2025,2,3,Drop bulk fares,8282004,15779650.0
+2025,2,4,Drop fares flagged not credible (DollarCred = 0),8237455,15729569.0
+2025,2,5,Drop fares below $25,7800693,14143165.0
+2025,2,6,Single ticketing carrier,7674226,14008599.0
+2025,2,7,Nonstop or one-stop,7544835,13876475.0
+2025,2,8,Drop fare per mile above 99th pct (quarter x distance band),7469386,13789191.0
+2025,2,9,Both endpoints in a CBSA with population data,7371158,13589963.0

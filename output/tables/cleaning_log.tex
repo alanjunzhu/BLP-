@@ -1,0 +1,22 @@
+\begin{tabular}{lllllll}
+\toprule
+ & description & records & passengers & products & markets & share of raw passengers \\
+step &  &  &  &  &  &  \\
+\midrule
+1 & Raw DB1B Market records & 105,807,120 & 206,644,154 &  &  & 1.000 \\
+2 & Both endpoints in 50 states + DC & 103,687,758 & 202,158,106 &  &  & 0.978 \\
+3 & Drop bulk fares & 103,678,179 & 202,146,231 &  &  & 0.978 \\
+4 & Drop fares flagged not credible (DollarCred = 0) & 103,189,944 & 201,607,442 &  &  & 0.976 \\
+5 & Drop fares below \$25 & 97,956,992 & 181,583,102 &  &  & 0.879 \\
+6 & Single ticketing carrier & 96,405,850 & 179,932,964 &  &  & 0.871 \\
+7 & Nonstop or one-stop & 94,829,115 & 178,324,800 &  &  & 0.863 \\
+8 & Drop fare per mile above 99th pct (quarter x distance band) & 93,880,832 & 177,257,561 &  &  & 0.858 \\
+9 & Both endpoints in a CBSA with population data & 92,647,009 & 174,681,984 &  &  & 0.845 \\
+10 & Aggregated to carrier x market x service type & 92,647,009 & 174,681,984 & 847,717 & 368,298 & 0.845 \\
+10b & Products with >= 20 sample passengers & 89,877,906 & 171,829,882 & 451,015 & 188,356 & 0.832 \\
+11 & Nonstop products confirmed by T-100 (>= 12 departures) & 89,544,315 & 171,429,057 & 444,312 & 188,241 & 0.830 \\
+12 & Markets with >= 100 sample passengers & 85,689,154 & 167,418,928 & 335,138 & 100,321 & 0.810 \\
+13 & Drop markets with inside share >= 0.5 & 85,567,261 & 166,035,106 & 334,945 & 100,269 & 0.803 \\
+\bottomrule
+\end{tabular}
+\par\vspace{2pt}{\footnotesize DB1B Market 10\% sample, 2022Q1--2025Q2. Records and passengers are DB1B sample counts. Steps 10--13 refer to the baseline non-directional airport-pair dataset.}
